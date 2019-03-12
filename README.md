@@ -2,7 +2,7 @@
 ## Project Outline
 
 - Kyle Burns, Bradley Sharkey, Itay Gurvich
-
+- Group 2
 
 - For each weeks planned part of the MITRE ATT&CK framework we intended  to setup example scenarios using Caldera and Atomic Red team that will be detected in Splunk.
 
