@@ -34,7 +34,7 @@
 ## Mar 14th
 ### Defense Evasion
 - [x] Compiled HTML File
-- [ ] ~~Component Firmware ~~
+- [ ] ~~Component Firmware~~
 - [x] Component Object Model Hijacking
 - [x] Control Panel Items
 - [x] DCShadow
