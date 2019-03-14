@@ -33,12 +33,12 @@
 
 ## Mar 14th
 ### Defense Evasion
-- [ ] Compiled HTML File
-- [ ] Component Firmware
-- [ ] Component Object Model Hijacking
-- [ ] Control Panel Items
-- [ ] DCShadow
-- [ ] DLL Search Order Hijacking
+- [x] Compiled HTML File
+- [ ] ~~Component Firmware ~~
+- [x] Component Object Model Hijacking
+- [x] Control Panel Items
+- [x] DCShadow
+- [x] DLL Search Order Hijacking
 
 ## March 21st
 ### Credential Access
