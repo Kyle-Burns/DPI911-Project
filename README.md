@@ -41,6 +41,7 @@
   - [x] [ServiceRegistryPermissionWeakness.conf](SplunkAlert_Confs/ServiceRegistryPermissionWeakness.conf)
 - [x] Shortcut Modification
   - [x] [ShortcutModificationPersistence.conf](SplunkAlert_Confs/ShortcutModificationPersistence.conf)
+  - [x] [modLink.ps1](Scripts/modLink.ps1)
 - [ ] ~~System Firmware~~
 ### Privilege Escalation
 - [x] Exploitation for Privilege Escalation
@@ -48,6 +49,7 @@
 - [ ] ~~Extra Window Memory Injection~~
 - [x] File System Permissions Weakness
   - [x] [FileSystemPermissionsWeakness.conf](SplunkAlert_Confs/FileSystemPermissionsWeakness.conf)
+  - [x] [filesysperm.ps1](Scripts/filesysperm.ps1)
 
 ## Mar 14th
 ### Defense Evasion
@@ -62,17 +64,26 @@
   - [x] [DCShadow.conf](SplunkAlert_Confs/DCShadow.conf)
 - [x] DLL Search Order Hijacking
   - [x] [DllHijack.conf](SplunkAlert_Confs/DllHijack.conf)
+  - [x] [dllHijack.ps1](Scripts/dllHijack.ps1)
 
 ## March 21st
 ### Credential Access
-- [ ] Credential Dumping
-- [ ] Credentials in Files
+- [x] Credential Dumping
+  - [x] [credentialDump.bat](Scripts/credentialDump.bat)
+
+- [x] Credentials in Files
+  - [x] [credInFile.ps1](Scripts/credInFile.ps1)
+
 ### Discovery
 - [ ] Peripheral Device Discovery
-- [ ] Permission Groups Discovery
+- [x] Permission Groups Discovery
+  - [x] [permGroupDisco.bat](Scripts/permGroupDisco.bat)
 ### Lateral Movement
-- [ ] Exploitation of Remote Services
-- [ ] Logon Scripts
+- [x] Exploitation of Remote Services
+- [x] Logon Scripts
+  - [x] [logonScripts.bat](Scripts/logonScripts.bat)
+
+logonScripts.bat
 
 ## March 28th
 ### Collection
