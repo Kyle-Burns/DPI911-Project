@@ -70,7 +70,6 @@
 ### Credential Access
 - [x] Credential Dumping
   - [x] [credentialDump.bat](Scripts/credentialDump.bat)
-
 - [x] Credentials in Files
   - [x] [credInFile.ps1](Scripts/credInFile.ps1)
 
@@ -82,8 +81,6 @@
 - [x] Exploitation of Remote Services
 - [x] Logon Scripts
   - [x] [logonScripts.bat](Scripts/logonScripts.bat)
-
-logonScripts.bat
 
 ## March 28th
 ### Collection
