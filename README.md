@@ -3,8 +3,7 @@
 
 - Kyle Burns, Bradley Sharkey, Itay Gurvich
 - Group 2
-
-- For each weeks planned part of the MITRE ATT&CK framework we intended  to setup example scenarios using Caldera and Atomic Red team that will be detected in Splunk.
+- Each week has a set of planned Attacks that are apart of the MITRE ATT&CK framework. We intend on creating Splunk rules and test-case files to trigger the corresponding rule.
 
 ## Feb 21st
 - [x] Project Outlined
