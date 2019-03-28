@@ -27,6 +27,7 @@
 ### Execution
 - [x] Control Panel Items
   - [x] [ControlPanelItems.conf](SplunkAlert_Confs/ControlPanelItems.conf)
+  - [x] [control_panel_demo.7z](Scripts/control_panel_demo.7z)
 
 - [x] Dynamic Data Exchange
   - [x] [DynamicDataExchange.conf](SplunkAlert_Confs/DynamicDataExchange.conf)
@@ -90,6 +91,7 @@
 - [ ] ~~Data from Local System~~
 ### Exfiltration
 - [x] Data Compressed
+- [x] [compressC.ps1](Scripts/compressC.ps1)
 ### Command and Control
 - [ ] ~~Connection Proxy~~
 - [ ] ~~Custom Command and Control Protocol~~
