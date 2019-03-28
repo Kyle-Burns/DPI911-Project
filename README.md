@@ -74,7 +74,7 @@
   - [x] [credInFile.ps1](Scripts/credInFile.ps1)
 
 ### Discovery
-- [ ] Peripheral Device Discovery
+- [ ] ~~Peripheral Device Discovery~~
 - [x] Permission Groups Discovery
   - [x] [permGroupDisco.bat](Scripts/permGroupDisco.bat)
 ### Lateral Movement
@@ -84,12 +84,12 @@
 
 ## March 28th
 ### Collection
-- [ ] Data from Local System
+- [ ] ~~Data from Local System~~
 ### Exfiltration
-- [ ] Data Compressed
+- [x] Data Compressed
 ### Command and Control
-- [ ] Connection Proxy
-- [ ] Custom Command and Control Protocol
+- [ ] ~~Connection Proxy~~
+- [ ] ~~Custom Command and Control Protocol~~
 
 - [ ] 1 week grace period for fixing, troubleshooting errors.
 
