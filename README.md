@@ -27,8 +27,10 @@
 ### Execution
 - [x] Control Panel Items
   - [x] [ControlPanelItems.conf](SplunkAlert_Confs/ControlPanelItems.conf)
+  - [x] [Script](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1180/T1180.md)
 - [x] Dynamic Data Exchange
   - [x] [DynamicDataExchange.conf](SplunkAlert_Confs/DynamicDataExchange.conf)
+  - [x] [DDE.docx](Scripts/DDE.docx) Note: Only works on Word 2016 and lower
 - [ ] ~~Execution through API~~
 
 ## Mar 7th
