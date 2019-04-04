@@ -86,9 +86,8 @@
 - [x] Credential Dumping
   - [x] [CredentialDump.conf](SplunkAlert_Conf/CredentialDump.conf)
   - [x] [credentialDump.bat](Scripts/credentialDump.bat)
-  
 - [x] Credentials in Files
-  - [x] [CredentialsinFiles.conf](SplunkAlert_Confs/Credentials in Files)
+  - [x] [CredentialsinFiles.conf](SplunkAlert_Confs/CredentialsinFiles.conf)
   - [x] [credInFile.ps1](Scripts/credInFile.ps1)
 
 ### Discovery
