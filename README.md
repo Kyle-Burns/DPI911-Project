@@ -84,7 +84,7 @@
 ## March 21st
 ### Credential Access
 - [x] Credential Dumping
-  - [x] [CredentialDump.conf](SplunkAlert_Confs/CredentialDump.conf)
+  - [x] [CredentialDumping.conf](SplunkAlert_Confs/CredentialDumping.conf)
   - [x] [credentialDump.bat](Scripts/credentialDump.bat)
 - [x] Credentials in Files
   - [x] [CredentialsinFiles.conf](SplunkAlert_Confs/CredentialsinFiles.conf)
