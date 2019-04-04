@@ -110,9 +110,12 @@
 - [ ] ~~Data from Local System~~
 ### Exfiltration
 - [x] Data Compressed
+  - [x] [DataCompressed.conf](SplunkAlert_Confs/DataCompressed.conf)
   - [x] [compressC.ps1](Scripts/compressC.ps1)
 ### Command and Control
-- [ ] ~~Connection Proxy~~
+- [x] Connection Proxy
+  - [x] [ConnectionProxy](SplunkAlert_Confs/ConnectionProxy.conf)
+  - [x] [Instructions](https://www.thewindowsclub.com/reset-winhttp-proxy-settings-windows)
 - [ ] ~~Custom Command and Control Protocol~~
 
 ## Apr 4th 
