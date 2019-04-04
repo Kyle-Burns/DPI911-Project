@@ -43,10 +43,10 @@
   - [x] [Script](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1180/T1180.md)
 - [x] Security Support Provider
   - [x] [SecuritySupportProvider.conf](SplunkAlert_Confs/SecuritySupportProvider.conf)
-  - [x] [ssp.ps1](Scirpts/ssp.ps1)
+  - [x] [ssp.ps1](Scripts/ssp.ps1)
 - [x] Service Registry Permissions Weakness
   - [x] [ServiceRegistryPermissionWeakness.conf](SplunkAlert_Confs/ServiceRegistryPermissionWeakness.conf)
-  - [x] [regVul.ps1](Scripts/regVul.ps1)
+  - [x] [regVul.ps1](Scripts/regVuln.ps1)
 - [x] Shortcut Modification
   - [x] [ShortcutModificationPersistence.conf](SplunkAlert_Confs/ShortcutModificationPersistence.conf)
   - [x] [modLink.ps1](Scripts/modLink.ps1)
