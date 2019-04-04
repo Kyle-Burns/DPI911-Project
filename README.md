@@ -84,7 +84,7 @@
 ## March 21st
 ### Credential Access
 - [x] Credential Dumping
-  - [x] [CredentialDump.conf](SplunkAlert_Conf/CredentialDump.conf)
+  - [x] [CredentialDump.conf](SplunkAlert_Confs/CredentialDump.conf)
   - [x] [credentialDump.bat](Scripts/credentialDump.bat)
 - [x] Credentials in Files
   - [x] [CredentialsinFiles.conf](SplunkAlert_Confs/CredentialsinFiles.conf)
@@ -93,7 +93,7 @@
 ### Discovery
 - [ ] ~~Peripheral Device Discovery~~
 - [x] Permission Groups Discovery
-  - [x] [PermissionGroupsDiscovery.conf](SplunkAlert_Conf/PermissionGroupsDiscovery.conf)
+  - [x] [PermissionGroupsDiscovery.conf](SplunkAlert_Confs/PermissionGroupsDiscovery.conf)
   - [x] [permGroupDisco.bat](Scripts/permGroupDisco.bat)
 ### Lateral Movement
 - [x] Exploitation of Remote Services
