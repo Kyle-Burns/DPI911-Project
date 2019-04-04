@@ -82,6 +82,8 @@
   - [x] [permGroupDisco.bat](Scripts/permGroupDisco.bat)
 ### Lateral Movement
 - [x] Exploitation of Remote Services
+  - [x] [EternalBlueExploitationofRemoteServices.conf](SplunkAlert_Confs/EternalBlueExploitationofRemoteServices.conf)
+  - [x] Use Metasploit Module exploit/windows/smb/ms17_010_eternalblue
 - [x] Logon Scripts
   - [x] [logonScripts.bat](Scripts/logonScripts.bat)
 
@@ -95,9 +97,7 @@
 - [ ] ~~Connection Proxy~~
 - [ ] ~~Custom Command and Control Protocol~~
 
-- [ ] 1 week grace period for fixing, troubleshooting errors.
-
 ## Apr 4th 
-- [ ] Completion
+- [x] Completion
 
 
